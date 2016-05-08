@@ -2,7 +2,7 @@
 
 namespace Ray\DbalModule;
 
-use Doctrine\DBAL\Driver\Connection;
+use Doctrine\DBAL\Connection;
 use Ray\Di\Injector;
 
 class DbalModuleTest extends \PHPUnit_Framework_TestCase

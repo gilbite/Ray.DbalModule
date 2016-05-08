@@ -10,7 +10,7 @@ use Doctrine\Common\Annotations\AnnotationRegistry;
 use Ray\DbalModule\Annotation\DbalConfig;
 use Ray\Di\AbstractModule;
 use Ray\Di\Scope;
-use Doctrine\DBAL\Driver\Connection;
+use Doctrine\DBAL\Connection;
 
 class DbalModule extends AbstractModule
 {

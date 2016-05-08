@@ -6,7 +6,7 @@
  */
 namespace Ray\DbalModule;
 
-use Doctrine\DBAL\Driver\Connection;
+use Doctrine\DBAL\Connection;
 
 trait DbalInject
 {
